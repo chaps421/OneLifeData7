@@ -1,5 +1,5 @@
-id=7445
-Dug Stump #dark
+id=42106
+@ anyStumpOnGround
 containable=1
 containSize=2.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3
@@ -29,9 +29,18 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=1
-spriteID=100687
-pos=3.000000,-24.000000
+numSprites=2
+spriteID=828
+pos=8.000000,-29.000000
+rot=-0.250000
+hFlip=0
+color=0.000000,0.000000,0.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=711
+pos=-1.000000,25.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -46,4 +55,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=15
+pixHeight=50
